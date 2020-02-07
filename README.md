@@ -1,2 +1,0 @@
-# LineBotPHP
-line bot learn
